@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name":"Anurag Choudhary",
+    "occupation":"Software Engineer",
+    "description":"And I build interesting things.",
+    "image":"anurag_for_website.png",
+    "bio": "Hello! I'm Anurag, a Software Engineer based in Gurgaon, India. I ❤️ developing interesting things that live on Internet. I have a keen interest in Python Technology.",
+    "subBio": "After graduating from Uttar Pradesh Technical University, I have joined the engineering team at Gemini Solutions ( Fintech ) where I have worked on wide variety of interesting and meaningful projects. Now, I am working with Rackspace Technology, a Cloud Hosting Company, where I have been working on interesting projects.",
+    "skills": "Here are few technologies on which I have worked:",
+    "skillsTechnology": ["Python", "Flask", "Django", "React", "Docker", "Jenkins", "AWS", "TensorFlow", "Redis", "MongoDB"],
+    "contactmessage":"If any question or just want to say Hi, my inbox is always open. I will try my best to get back to you!",
+    "email": "anurag@eranurag.in",
+    "mailToEmail": "mailto:anurag@eranurag.in",
+    "phone": "",
+    "address":{
+      "street":"()",
+      "city":"Gurgaon",
+      "state":"(Haryana)",
+      "country": "INDIA",
+      "zip": "()"
+    },
+    "website": "http://www.eranurag.com",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/eranurag.in",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/eranurag1",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/anuragchoudhary/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/anuragchoudhary01",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/anuragchoudhary01",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"",
+        "degree":"",
+        "graduated":"",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"",
+        "title":"",
+        "years":"",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"85%"
+      },
+      {
+        "name":"Flask",
+        "level":"70%"
+      },
+      {
+        "name":"Django",
+        "level":"40%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"30%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
